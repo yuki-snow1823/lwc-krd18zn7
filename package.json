@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/yuki-snow1823.lwc-krd18zn7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve 9ejpvA9gt7vLB6YeKPiM --open"
+  }
+}
